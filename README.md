@@ -48,3 +48,8 @@ Overall, this Real-Time Chat Application successfully meets the project requirem
 
 In conclusion, the application fulfills all the required objectives by delivering a functional, responsive, and real-time chat system. It showcases the ability to build a modern web application using React.js, Node.js, and WebSocket technology while maintaining simplicity and usability.
 
+OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3a247bce-f1dc-4cb8-925f-700fc2c9dd04" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b9235aaf-2c7a-469b-94f5-d5056f8f194b" />
